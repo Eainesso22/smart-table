@@ -19,7 +19,7 @@ export const data = {
         {
             "id": "customer_3",
             "first_name": "Sergey",
-            "last_name": "Andreev",
+            "last_name": "Andrev",
             "phone": "+71364071334",
             "workplace": "BuildCorp",
             "position": "Technician"
